@@ -173,27 +173,23 @@ img {
   }
 
   .gallery-right {
-    height: auto;
-  }
+    height: auto;}
 
   .info-card {
     width: 100%;
     height: auto;
-    align-items: center;
-  }
+    align-items: center;  }
 }
 
 @media (max-width: 600px) {
   .nav-links {
-    flex-wrap: wrap;        
+    flex-wrap: wrap;       
     gap: 20px;
-    justify-content: center;
-  }
+    justify-content: center;}
 
   .hero-text {
     padding-left: 20px;
-    padding-right: 20px;
-  }
+    padding-right: 20px; }
 
   .hero-text h1 {
     font-size: 28px;
